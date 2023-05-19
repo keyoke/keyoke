@@ -25,5 +25,5 @@ TODO
 ### Social Links
 - [Soft-Cor Tech Community](https://blog.soft-cor.com)
 - [Linkedin](https://linkedin.com/in/gareth-emslie)
-- <a rel="me" href="https://hachyderm.io/@keyoke_za">Mastodon</a>
+- [Mastodon]([https://linkedin.com/in/gareth-emslie](https://hachyderm.io/@keyoke_za))
 - [Twitter](https://twitter.com/keyoke_za)
