@@ -1,5 +1,5 @@
 ## About Me
-My name is Gareth Emslie I'm a cloud strategist with a background in architecting and building software & services. I am currently working at [Dynatrace](https://www.dynatrace.com/) as a Cloud Enthusiast where I spend my time sharing my enthusiasm for cloud with anyone who will listen. My specialities are cloud product strategy, cloud architecture & building solutions targeting the Azure platform.
+My name is Gareth Emslie I'm a cloud strategist & tech evangelist with a background in architecting and building software & services. I am currently working at [Dynatrace](https://www.dynatrace.com/) as a Cloud Enthusiast where I spend my time sharing my enthusiasm for cloud with anyone who will listen. My specialities are cloud product strategy, cloud architecture & building solutions targeting the Azure platform.
 
 ### Opensource Projects
 
