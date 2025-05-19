@@ -23,7 +23,7 @@ TODO
   Port Elizabeth, South Africa
 
 ### Social Links
-- [Soft-Cor Tech Community](https://blog.soft-cor.com)
+- [My Blog](https://www.soft-cor.com)
 - [Linkedin](https://linkedin.com/in/gareth-emslie)
 - [Mastodon](https://hachyderm.io/@keyoke_za)
-- [Twitter](https://twitter.com/keyoke_za)
+- [Bluesky](https://bsky.app/profile/keyoke-za.bsky.social)
